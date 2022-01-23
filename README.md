@@ -1,4 +1,4 @@
-## Oiii eu sou o Bruno Gonçalves, programador front-end!
+## Oiii eu sou o Bruno Gonçalves, programador Front End!
 
 <p> Estudando Javascript - HTML5 - CSS3 </p>
 
