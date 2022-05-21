@@ -31,7 +31,7 @@
 ##
 
 <p align="center" style="background:blue">
-  <a href="(https://www.instagram.com/brunogonferreira/)" target="_blank">
+  <a href="https://www.instagram.com/brunogonferreira/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-brunogonferreira-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.linkedin.com/in/bruno-gon%C3%A7alves-ferreira-9a4793184/" target="_blank">
