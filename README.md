@@ -6,8 +6,6 @@
 
 - 🌱  I’m always studying **JavaScript, HTML, CSS, NodeJS, GIT, Github**
 
-- 🚀  How to reach me  [brunogoncalvesferreira.github.io/brunogoncalves/](https://brunogoncalvesferreira.github.io/brunogoncalves/)
-
 <br>
 
 ## 🛠 &nbsp;Tech Stack
