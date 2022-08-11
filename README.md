@@ -2,9 +2,9 @@
 <h1 align="left">Olá, eu sou o Bruno!</h1>
 
 
-- 🔭  I’m currently working on Euroville BMW
+- 🔭  I'm looking for an opportunity.
 
-- 🌱  I’m always studying **JavaScript, HTML, CSS, NodeJS, GIT, Github**
+- 🌱  I’m always studying **JavaScript, HTML, CSS, NodeJS, GIT, Github**.
 
 <br>
 
