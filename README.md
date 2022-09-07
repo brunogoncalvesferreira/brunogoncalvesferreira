@@ -40,8 +40,3 @@
 </a>
 </p>
 <br/>
-
-
-
-
-<p> Inspiração @birobirobirodev </p>
