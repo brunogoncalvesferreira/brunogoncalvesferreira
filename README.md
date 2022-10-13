@@ -22,7 +22,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
 
-<p align="center">
+<p align="center" display="flex">
 <img width="300px" src="https://github-readme-stats.vercel.app/api?username=brunogoncalvesferreira&show_icons=true&theme=nightowl" alt="Bruno's stats"/>
   
 <div align="center">
