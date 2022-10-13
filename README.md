@@ -23,10 +23,10 @@
 <br>
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=brunogoncalvesferreira&show_icons=true&theme=nightowl" alt="Bruno's stats"/>
+<img width="300px" src="https://github-readme-stats.vercel.app/api?username=brunogoncalvesferreira&show_icons=true&theme=nightowl" alt="Bruno's stats"/>
   
 <div align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogoncalvesferreira&layout=compact&hide_border=true&theme=onedark"> 
+<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogoncalvesferreira&layout=compact&hide_border=true&theme=onedark"> 
 </div>
 </p>
 
