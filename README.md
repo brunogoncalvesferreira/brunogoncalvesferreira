@@ -4,7 +4,7 @@
 
 - 🔭  I'm looking for an opportunity.
 
-- 🌱  I’m always studying **JavaScript, HTML, CSS, NodeJS, GIT, Github**.
+- 🌱  I’m always studying **React, JavaScript, HTML, CSS, NodeJS, GIT, Github**.
 
 <br>
 
