@@ -1,9 +1,6 @@
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 <h1 align="left">Olá, eu sou o Bruno!</h1>
 
-
-- 🔭  I'm looking for an opportunity.
-
 - 🌱  I’m always studying **React, JavaScript, HTML, CSS, NodeJS, GIT, Github**.
 
 <br>
