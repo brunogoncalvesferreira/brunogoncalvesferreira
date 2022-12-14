@@ -15,6 +15,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![REACT](https://img.shields.io/badge/-react-05122A?style=flat&logo=REACT)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
