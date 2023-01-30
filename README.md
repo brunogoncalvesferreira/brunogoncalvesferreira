@@ -2,7 +2,17 @@
 
 ### 🧑🏻‍💻 Desenvolvedor Web
 
-</br></br>
+<br>
+
+Programador Front-end, formado em Análise e Desenvolvimento de Sistemas em 2022 .
+
+Desenvolvedor focado na linguagem de programação Javascript. Com conhecimento em HTML, CSS, NodeJs, ReactJs, Styled-Components, Tailwindcss, ExpressJs, Typescript, MySQL, APIs, Figma.
+
+Sempre buscando conhecimento!
+ 
+"Acredito que com a tecnologia podemos melhorar a vida das pessoas!"
+
+</br>
 
 ### Como chegar até mim:
 
@@ -30,3 +40,8 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunogoncalvesferreira&show_icons=true&theme=dracula)](https://github.com/brunogoncalvesferreira/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunogoncalvesferreira&layout=compact&theme=dracula)](https://github.com/brunogoncalvesferreira/github-readme-stats)
+
