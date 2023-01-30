@@ -4,7 +4,9 @@
 
 ### Como chegar até mim:
 
-![<a href="https://www.linkedin.com/in/bruno-goncalves-ferreira"></a>](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin)
+<a href="https://www.linkedin.com/in/bruno-goncalves-ferreira" target="_blank">
+  <img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
 ### Tecnologias que trabalho
 
