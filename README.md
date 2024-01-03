@@ -6,7 +6,7 @@
 
 Programador Front-end, formado em Análise e Desenvolvimento de Sistemas.
 
-Desenvolvedor focado na linguagem de programação Javascript. Com conhecimento em HTML, CSS, NodeJs, ReactJs, Styled-Components, Tailwindcss, ExpressJs, Typescript, MySQL, APIs, Figma.
+Desenvolvedor focado na linguagem de programação Javascript.
 
 Sempre buscando conhecimento!
  
