@@ -1,4 +1,4 @@
-# OI, eu sou o Bruno 🙇🏻‍♂️ <img align="right" width="90" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e47bdhks6khthuzss4v251ln9dyijfkqgvqp6cp7q4y&rid=200w.webp&ct=g">
+# Hello Devs
 
 ### 🧑🏻‍💻 Desenvolvedor fullstack
 
