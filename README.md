@@ -4,9 +4,7 @@
 
 <br>
 
-Programador Front-end, formado em Análise e Desenvolvimento de Sistemas.
-
-Desenvolvedor focado na linguagem de programação Javascript.
+Desenvolvedor fullstack, formado em Análise e Desenvolvimento de Sistemas.
 
 Sempre buscando conhecimento!
  
