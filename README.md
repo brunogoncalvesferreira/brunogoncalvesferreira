@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programador fullstack<br>📚 Me aprofundando em backend</p>
+<p align="left">✨ Programador<br>📚 Me aprofundando em backend</p>
 
 ###
 
