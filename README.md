@@ -10,17 +10,6 @@ Programador ☕
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/bruno-goncalves-ferreira" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="brunogoncalvesferreira@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
-
 <h2 align="left">Hard Skills</h2>
 
 ###
@@ -46,12 +35,6 @@ Programador ☕
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/brunogoncalvesferreira/brunogoncalvesferreira/output/snake.svg" alt="Snake animation" />
 
 ###
 
