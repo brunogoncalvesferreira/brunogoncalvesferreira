@@ -4,7 +4,7 @@
 
 Programador ☕
 
-Apaixonado por tecnologia, dedicado a criar soluções que transformem e melhorem a vida das pessoas. Acredito no poder do código para gerar impacto positivo, oferecendo ferramentas que simplificam o dia a dia e trazem benefícios reais. Meu objetivo é usar minha habilidade em programação para desenvolver produtos que façam a diferença, sempre buscando inovar e agregar valor ao cotidiano de quem os utiliza.
+Dedicado a criar soluções que transformem e melhorem a vida das pessoas. Acredito no poder do código para gerar impacto positivo, oferecendo ferramentas que simplificam o dia a dia e trazem benefícios reais. Meu objetivo é usar minha habilidade em programação para desenvolver produtos que façam a diferença, sempre buscando inovar e agregar valor ao cotidiano de quem os utiliza.
 
 [![Twitter Badge](https://img.shields.io/badge/-@brunogonferreira-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/brunogonferreira)](https://twitter.com/brunogonferreira) 
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Goncalves-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-goncalves-ferreira/)](https://www.linkedin.com/in/bruno-goncalves-ferreira/) 
