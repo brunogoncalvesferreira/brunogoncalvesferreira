@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm [Your Name] 👋
+# Hey there, I'm Bruno. 👋
 
 **Building tools that make people's everyday lives a little easier.**
 
