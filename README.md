@@ -15,7 +15,7 @@
 I'm a developer passionate about creating practical solutions for real-world problems. My focus is on building applications that simplify day-to-day processes — if it helps someone get through their routine faster, I'm interested.
 
 - 🎓 Graduated in **Systems Analysis and Development**
-- 🛠️ 2 years of experience building full-stack applications
+- 🛠️ 3 years of experience building full-stack applications
 - 🎯 Driven by purpose: I build things that **actually help people**
 - 🚀 Always exploring new tools and better ways to solve old problems
 
