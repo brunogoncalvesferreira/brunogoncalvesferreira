@@ -4,7 +4,7 @@
 
 **Building tools that make people's everyday lives a little easier.**
 
-*Systems Analysis & Development graduate · 2 years turning coffee into code*
+*Systems Analysis & Development graduate · 3 years turning coffee into code*
 
 </div>
 
