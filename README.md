@@ -8,8 +8,6 @@
 
 </div>
 
-<a href="https://app.rocketseat.com.br/me/bruno-goncalves-ferreira"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=bruno-goncalves-ferreira&type=card" width="280" alt="Bruno Gonçalves Ferreira's Rocket ID"/></a>
-
 ---
 
 ## 🧭 About Me
